@@ -20,7 +20,7 @@ Projeyi çalıştırmak için aşağıdaki bağımlılıklar gereklidir:
 1. **Projeyi İndirme:**
    - Projeyi indirmek için terminal veya komut istemcisine şu komutu yazın:
      ```bash
-     git clone https://github.com/kullanici/SpeTriFinder.git
+     git clone https://github.com/Mefamex/Ozel-Ucgenler-Special-Triangles-2024.git
      ```
 
 2. **Proje Dizinine Girme:**
