@@ -70,7 +70,6 @@ print(big.spec_tri[-1])
 
 ### Örnek 1:
 
-```plaintext
 max values and side: 10, 10, 100
 Running...  X: 9  
 8 special triangles found
@@ -85,6 +84,7 @@ Running...  X: 9
 Done!  ---------------
 
 ### Örnek 2:
+
 max values and side: 5, 5, 25
 Running...  X: 4  
 3 special triangles found
