@@ -64,12 +64,13 @@ SpeTriFinder(3, 3)
 # veya
 big = SpeTriFinder(100, 100, False)
 print(big.spec_tri[-1])
+```
 
 
 ## Örnek Sonuçlar
 
 ### Örnek 1:
-
+```plaintext
 max values and side: 10, 10, 100
 Running...  X: 9  
 8 special triangles found
@@ -82,9 +83,9 @@ Running...  X: 9
 [13, 84, 85]
 [15, 112, 113]
 Done!  ---------------
-
+```
 ### Örnek 2:
-
+```plaintext
 max values and side: 5, 5, 25
 Running...  X: 4  
 3 special triangles found
@@ -92,3 +93,4 @@ Running...  X: 4
 [3, 4, 5]
 [5, 12, 13]
 Done!  ---------------
+```
