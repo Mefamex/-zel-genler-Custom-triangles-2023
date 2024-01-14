@@ -1,4 +1,4 @@
-# Ozel-Ucgenler-Special-Triangles-2024
+# Special-Triangles-Finder
 
 This Python script contains a class (`SpeTriFinder`) that finds special triangles based on the user-provided X and Y values.
 Formula: Pythagorean Theorem: `|x² - y²|` and `2xy` and `x² + y²`
@@ -19,33 +19,27 @@ The following dependencies are required to run the project:
 1. **Download the Project:**
    - To download the project, open your terminal or command prompt and run the following command:
      ```bash
-     git clone https://github.com/Mefamex/Ozel-Ucgenler-Special-Triangles-2024.git
+     git clone https://github.com/Mefamex/Special-Triangles-Finder.git
      ```
 
 2. **Change to Project Directory:**
    - Change to the directory of the downloaded project by running the following command in your terminal or command prompt:
      ```bash
-     cd SpeTriFinder
+     cd Special-Triangles-Finder
      ```
 
 3. **Run the Script:**
    - To run the script, enter the following command in your terminal or command prompt:
      ```bash
-     python spe_tri_finder.py
-     ```
-     or
-     ```bash
-     python3 spe_tri_finder.py
-     ```
-     - The name of the `spe_tri_finder.py` file may vary depending on the script's name.
+     python main.py
 
 ## How to Use
 
-You can use the `SpeTriFinder` class by using the `spe_tri_finder.py` file in the project.
+You can use the `SpeTriFinder` class by using the `main.py` file in the project.
 
 ```python
 # Example Usage
-from spe_tri_finder import SpeTriFinder
+from spe_tri_finder import Special-Triangles-Finder
 
 # User-provided X and Y values
 user_X = 10
