@@ -40,7 +40,7 @@ Projenin içindeki `main.py` dosyasını kullanarak `SpeTriFinder` sınıfını 
 
 ```python
 # Örnek Kullanım
-from spe_tri_finder import SpeTriFinder
+from main import SpeTriFinder
 
 # Kullanıcı tarafından belirlenen X ve Y değerleri
 user_X = 10
