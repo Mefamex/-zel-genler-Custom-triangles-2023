@@ -3,8 +3,6 @@
 # Created on Thursday, January 12, 2024
 # Author: mefamex
 
-from time import sleep
-
 class SpeTriFinder:
     def __init__(self, user_X, user_Y, show=True):
         """
@@ -76,7 +74,6 @@ class SpeTriFinder:
         """
         if show is None:
             show = self.show
-
         self.spec_tri = []
         print(f"max values and side: {max_X}, {max_Y}, {max(self.find_tri(max_X, max_Y))}\nRunning...  ", end="")
         for X in range(1, max_X):
@@ -86,7 +83,6 @@ class SpeTriFinder:
                 self.add_tri(tri)
             print(f"\rX: {X}  ", end="")
         self.spec_tri.sort()
-
         print(f"\r{len(self.spec_tri)} special triangles found")
         if show:
             print(*self.spec_tri, sep="\n")
