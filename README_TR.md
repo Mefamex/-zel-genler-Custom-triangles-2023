@@ -1,8 +1,8 @@
 # Ozel-Ucgenler-Special-Triangles-2024
-formül: Pisagor Teoremi :|x² - y²| ve 2xy ve x² + y²
 
 Bu Python script'i, kullanıcının sağladığı X ve Y değerlerine dayalı özel üçgenleri bulan bir sınıf içerir.
-formül: Pisagor  Teoremi:|x² - y²| ve 2xy ve x² + y²
+
+formül: Pisagor Teoremi:`|x² - y²|` ve `2xy` ve `x² + y²`
 
 ## Açıklama
 
