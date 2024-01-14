@@ -13,6 +13,7 @@ The following dependencies are required to run the project:
 
 - Python 3.x
 
+
 ## Installation
 
 1. **Download the Project:**
