@@ -65,26 +65,36 @@ print(big.spec_tri[-1])
 
 ### Örnek 1:
 ```plaintext
-max values and side: 10, 10, 100
-Running...  X: 9  
-8 special triangles found
-[1, 1, 1]
+max values and side: 10, 10, 200
+18 special triangles found
 [3, 4, 5]
 [5, 12, 13]
 [7, 24, 25]
+[8, 15, 17]
 [9, 40, 41]
 [11, 60, 61]
+[12, 35, 37]
 [13, 84, 85]
 [15, 112, 113]
+[16, 63, 65]
+[17, 144, 145]
+[20, 21, 29]
+[28, 45, 53]
+[33, 56, 65]
+[36, 77, 85]
+[39, 80, 89]
+[48, 55, 73]
+[65, 72, 97]
 Done!  ---------------
 ```
+
 ### Örnek 2:
 ```plaintext
-max values and side: 5, 5, 25
-Running...  X: 4  
-3 special triangles found
-[1, 1, 1]
+max values and side: 5, 5, 50
+4 special triangles found
 [3, 4, 5]
 [5, 12, 13]
+[7, 24, 25]
+[8, 15, 17]
 Done!  ---------------
 ```
