@@ -5,7 +5,7 @@ Formula: Pythagorean Theorem: `|x² - y²|` and `2xy` and `x² + y²`
 
 ## Description
 
-In this project, there is a Python class (`SpeTriFinder`) that finds special triangles based on the X and Y values provided by the user. Triangles are calculated using the Pythagorean theorem and minimized to their smallest form.
+In this project, there is a Python class (`SpeTriFinder`) that finds special triangles based on the X and Y values provided by ⁸the user. Triangles are calculated using the Pythagorean theorem and minimized to their smallest form.
 
 ## Requirements
 
