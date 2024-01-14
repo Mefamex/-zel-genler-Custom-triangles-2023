@@ -39,7 +39,7 @@ You can use the `SpeTriFinder` class by using the `main.py` file in the project.
 
 ```python
 # Example Usage
-from main import Special-Triangles-Finder
+from main import SpeTriFinder
 
 # User-provided X and Y values
 user_X = 10
@@ -64,7 +64,6 @@ print(big.spec_tri[-1])
 ### Example 1:
 ```plaintext
 max values and side: 10, 10, 100
-Running...  X: 9  
 8 special triangles found
 [1, 1, 1]
 [3, 4, 5]
@@ -80,7 +79,6 @@ Done!  ---------------
 ### Example 2:
 ```plaintext
 max values and side: 5, 5, 25
-Running...  X: 4  
 3 special triangles found
 [1, 1, 1]
 [3, 4, 5]
