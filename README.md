@@ -39,7 +39,7 @@ You can use the `SpeTriFinder` class by using the `main.py` file in the project.
 
 ```python
 # Example Usage
-from spe_tri_finder import Special-Triangles-Finder
+from main import Special-Triangles-Finder
 
 # User-provided X and Y values
 user_X = 10
