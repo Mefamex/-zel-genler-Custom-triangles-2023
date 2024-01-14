@@ -1,4 +1,4 @@
-# Ozel-Ucgenler-Special-Triangles-2024
+# Special-Triangles-Finder
 
 Bu Python script'i, kullanıcının sağladığı X ve Y değerlerine dayalı özel üçgenleri bulan bir sınıf içerir.
 formül: Pisagor Teoremi:`|x² - y²|` ve `2xy` ve `x² + y²`
@@ -19,29 +19,24 @@ Projeyi çalıştırmak için aşağıdaki bağımlılıklar gereklidir:
 1. **Projeyi İndirme:**
    - Projeyi indirmek için terminal veya komut istemcisine şu komutu yazın:
      ```bash
-     git clone https://github.com/Mefamex/Ozel-Ucgenler-Special-Triangles-2024.git
+     git clone https://github.com/Mefamex/Special-Triangles-Finder.git
      ```
 
 2. **Proje Dizinine Girme:**
    - İndirilen projenin dizinine gitmek için terminal veya komut istemcisine şu komutu yazın:
      ```bash
-     cd SpeTriFinder
+     cd Special-Triangles-Finder
      ```
 
 3. **Script'i Çalıştırma:**
    - Script'i çalıştırmak için terminal veya komut istemcisine şu komutu yazın:
      ```bash
-     python spe_tri_finder.py
+     python main.py
      ```
-     veya
-     ```bash
-     python3 spe_tri_finder.py
-     ```
-     - `spe_tri_finder.py` dosyasının adı script'in adına göre değişebilir.
 
 ## Nasıl Kullanılır
 
-Projenin içindeki `spe_tri_finder.py` dosyasını kullanarak `SpeTriFinder` sınıfını aşağıdaki gibi kullanabilirsiniz.
+Projenin içindeki `main.py` dosyasını kullanarak `SpeTriFinder` sınıfını aşağıdaki gibi kullanabilirsiniz.
 
 ```python
 # Örnek Kullanım
