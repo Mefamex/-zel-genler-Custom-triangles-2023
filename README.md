@@ -1,8 +1,7 @@
 # Ozel-Ucgenler-Special-Triangles-2024
-Formula: Pythagorean Theorem: |x² - y²| and 2xy and x² + y²
 
 This Python script contains a class (`SpeTriFinder`) that finds special triangles based on the user-provided X and Y values.
-Formula: Pythagorean Theorem: |x² - y²| and 2xy and x² + y²
+Formula: Pythagorean Theorem: (`|x² - y²|`) and (`2xy`) and (`x²`) + (y²`)
 
 ## Description
 
