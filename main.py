@@ -15,7 +15,7 @@ class SpeTriFinder:
         """
         self.spec_tri, self.show = [], show
         self.run_finder(user_X, user_Y, show=show)
-
+ 
     def minimize(self, given: list):
         """
         Calculates the greatest common divisor and minimizes the given numbers.
