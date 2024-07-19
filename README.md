@@ -59,7 +59,7 @@ big = SpeTriFinder(100, 100, False)
 print(big.spec_tri[-1])
 ```
 
-## Example Results
+## Examples' Results
 
 ### Example 1:
 ```plaintext
